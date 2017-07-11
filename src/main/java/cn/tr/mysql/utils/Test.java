@@ -12,8 +12,6 @@ public class Test {
 	
 	public static void main(String[] args) {
 		
-		// hhh
-		
 		// 建库
 		CreateDBUtil.createDataBase();
 		
