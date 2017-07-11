@@ -17,8 +17,6 @@ import java.sql.Statement;
 
 public class ReadSqlUtil {
 	
-	
-	
 	public static void main(String[] args) {
 		readSql();
 	}
