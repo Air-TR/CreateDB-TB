@@ -15,6 +15,8 @@ public class Test {
 		// 建库
 		CreateDBUtil.createDataBase();
 		
+		
+		
 		// 建表
 		ReadSqlUtil.readSql();
 		
